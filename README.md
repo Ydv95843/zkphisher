@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/jMSmyRr/zkphisher.png" alt=""/>
+  
 </p>
 
 <p align="center">
