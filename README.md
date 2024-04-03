@@ -72,7 +72,7 @@
   git clone https://github.com/Ydv95843/zkphisher/
   cd zkPhisher
   cd src && python3 setup.py
-  cd ..
+  cd zkphisher
   python3 main.py
   ```
 
